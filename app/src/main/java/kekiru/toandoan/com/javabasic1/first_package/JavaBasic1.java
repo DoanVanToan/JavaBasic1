@@ -45,9 +45,10 @@ public class JavaBasic1 {
         System.out.println("Hello world");
         int firstNumber = 10;
         int secondNumber = 20;
+	int thirdNumber = 30;
         System.out.println("Số thứ nhất :" + firstNumber);
         System.out.println("Số thứ hai :" + secondNumber);
-
+	System.out.println("Số thứ ba :" + thirdNumber);
         /*
         Sử dụng format để định dạng dữ liệu đầu ra
         - %d để in ra kiểu số nguyên (int, long)
